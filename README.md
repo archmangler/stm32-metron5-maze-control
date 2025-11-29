@@ -255,7 +255,7 @@ This project is provided as-is for educational and development purposes.
 
 ## Author
 
-STM32 Embedded Systems Project
+Traiano Giuseppe Welcome (traiano@gmail.com) - www.linkedin.com/in/traiano-welcome-60767414
 
 ## Version History
 
